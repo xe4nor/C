@@ -35,7 +35,7 @@ int main(){
         } else {
 
             printf(ANSI_GREEN"Speicher erfolgreich freigeben\n"ANSI_RESET_ALL);
-            UserInput = NULL; //Nur auf NULL setzen wenn nciht mehr gebracuht wird.
+            UserInput = NULL; //Nur auf NULL setzen wenn nciht mehr gebraucht wird.
         }
     }
 
